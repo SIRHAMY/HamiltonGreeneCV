@@ -11,8 +11,8 @@ Personal Blog: http://medium.com/sirhamy HAMY: Check link
 Technical Blog: http://sirhamy.com/blog 
 
 **Auxiliary**
-GitHub: HAMY: Link
-LinkedIn: HAMY: Link
+GitHub: http://github.com/sirhamy - HAMY: Link
+LinkedIn: http://linkedin.com/hamiltongreene - HAMY: Link
 
 ## Table of Contents
 * Summary
@@ -75,7 +75,7 @@ This section contains a chronological list of my work experience from college on
 
 ## Projects
 
-Notable projects I've worked on in chronological order. Projects developed while working as part of an organization will be listed under their respective entry in `Professional Experience`.
+Notable projects I've worked on in chronological order. Projects developed while working as part of an organization will be listed under their respective entry in `Professional Experience`. Where possible, links to source code and live demos are provided.
 
 ### ProfessorDex
 **Affiliation:**
@@ -95,6 +95,56 @@ Notable projects I've worked on in chronological order. Projects developed while
 
 ## Education
 
+### Georgia Institute of Technology
+**Major:**
+**Graduation Year:**
+**GPA:**
+
+#### Awards
+HAMY: List Dean's list, scholarships, etc.
+* Dean's List -> Time frames awarded
+* Scholarships -> Esther Bleich
+
+#### Programs
+
+##### College of Computing Study Abroad Program
+**Location:** Barcelona, Spain
+**Host Institution:** UPC -> HAMY: Look up spelling
+**Description:**
+**Courses:**
+
+#### Extracurriculars
+HAMY: List clubs
+* Freshman Activities Board (FAB)
+* Georgia Institute of Technology Mobile App Development (GIT MAD)
+* Humanitech
+* IFC
+* Lambda Chi Alpha Fraternity
+* Wreckless
+
+#### Courses
+HAMY: List courses Chronologically? Probably better alphabetically by course ID, number
+
+### Lakeside High School
+**Location:** Atlanta, GA
+**GPA:**
+
 ## Achievements/Awards/Notables
+
+### Academic Trips
+
+#### Barcelona Study Abroad
+**Afiiliation:** Georgia Institute of Technology
+
+#### Israel Trip
+**Affiliation:** The Temple Breman Religious School (TBRS)
+
+### Test Scores
+
+#### ACT
+
+#### SAT
+
+
 
 
