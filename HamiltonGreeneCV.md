@@ -118,12 +118,24 @@ HAMY: List clubs
 * Freshman Activities Board (FAB)
 * Georgia Institute of Technology Mobile App Development (GIT MAD)
 * Humanitech
-* IFC
+* Interfraternity Council (IFC) - HAMY: Spelling
 * Lambda Chi Alpha Fraternity
 * Wreckless
 
 #### Courses
 HAMY: List courses Chronologically? Probably better alphabetically by course ID, number
+* CS 1331 - 
+* CS 1332 -
+* CS 2110
+* CS 2210 
+* CS 2340
+* CS 3750
+* CS 4365
+* CS 4464 - Computational Journalism
+* CS 4496 - Computer Animation
+* EAS 1600
+* EAS 1601
+* MATH 3215
 
 ### Lakeside High School
 **Location:** Atlanta, GA
